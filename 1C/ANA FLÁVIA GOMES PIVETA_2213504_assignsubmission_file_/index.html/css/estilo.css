@@ -1,0 +1,29 @@
+body{
+	font-family: sans-serif;
+	background-color:#FFFFFF;
+	color:#228B22;
+	margin: 100px;
+
+}
+li{
+	color:#8B008B
+}
+h1{
+	padding-left: 10px;
+	padding-top:10px;
+	padding-bottom:10px;
+	font-family: sans-serif;
+	
+}
+p{
+	color:#000000 ;
+	font-size: 20px;
+}
+figure{
+	margin-left: 100px;
+	margin-bottom: 60px;#000000
+}
+a{
+	color:#DC143C;
+
+}

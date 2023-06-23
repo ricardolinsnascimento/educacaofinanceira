@@ -1,0 +1,48 @@
+body{
+	font-family: sans-serif;
+}
+h1{
+	padding:50px;
+	font-size: 30px;
+	color: white;
+	background-color: #3CAA53;
+		
+}
+#lina{
+	background-color: #3CAA53;
+	color:#3CAA53;
+}
+#informa{
+	font-size: 25px;
+}
+footer{
+	background-color: #3CAA53;
+	text-align: center;
+	padding: 30px;
+	font-size:20px;
+}
+#imagem1{
+	text-align: center;
+}
+p{
+	font-size:25px;
+}
+#matematica{
+	text-align: center;
+		padding: 5px;
+	background-color: #069238
+}
+#portugas{
+	text-align: center;
+	padding: 5px;
+	background-color: #069238
+}
+#ferras{
+	text-align: center;
+	padding: 5px;
+	background-color: #069238
+}
+div{
+	border: 5px solid #3CAA53;
+	width: 50%;
+}

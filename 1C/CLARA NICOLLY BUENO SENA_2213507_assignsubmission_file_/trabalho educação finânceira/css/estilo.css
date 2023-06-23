@@ -1,0 +1,37 @@
+body{
+	background-image:url(../IMG/texture1.png);
+	font-family: sans-serif;
+	text-align: center;
+	background-color:lightyellow;
+}
+h1{
+	background-color:lightyellow;
+	color:black;
+	margin-left:400px;
+	margin-right:400px;
+	font-size: 30px;
+}
+p{
+	color:black;
+	margin-left:400px;
+	margin-right:400px;
+	background-color:lightyellow;
+	font-size:20px;
+}
+
+ul{
+	border-style:solid;
+	background-color:lightyellow;
+	margin-left:400px;
+	margin-right:700px;
+}
+
+h2{
+	color:black;
+	margin-left: 500px;
+	margin-right: 500px;
+	font-size: 25px;
+}
+a:visited{
+	color:black;
+}

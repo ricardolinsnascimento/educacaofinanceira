@@ -1,0 +1,97 @@
+#matematica{
+	border-style: solid;
+	border-color: #4169E1;
+	border-width: 4px;
+	font-family: arial;
+	margin-left: 20px;
+	margin-right: 1100px;
+}
+#portugues{
+	border-style: solid;
+	border-color: #FFD700;
+	border-width: 4px;
+	font-family: arial;
+	margin-left: 20px;
+	margin-right: 1100px;
+}
+#fdd{
+	border-style: solid;
+	border-color: #F08080;
+	border-width: 4px;
+	font-family: arial;
+	margin-left: 20px;
+	margin-right: 1100px;
+}
+#front{
+	border-style: solid;
+	border-color: #32CD32;
+	border-width: 4px;
+	font-family: arial;
+	margin-left: 20px;
+	margin-right: 1100px;
+}
+h1{
+	font-family: arial;
+	margin-left: 20px;
+}
+p{
+	font-family: arial;
+	margin-left: 20px;
+}
+header{
+	background-color: seagreen;
+	font-family: arial;
+	text-align: center;
+	padding: 0.5px;
+	font-size: 20px;
+}
+footer{
+	background-color: darkseagreen;
+	font-family: arial;
+	text-align: center;
+	padding: 10px;
+	font-size: 15px;
+}
+iframe{
+	margin-left: 20px;
+}
+#ef{
+	font-family: arial;
+	font-size: 20px;
+}
+#video{
+	font-family: arial;
+	font-size: 20px;
+}
+#conteudo{
+	font-family: arial;
+	font-size: 20px;
+}
+#pagina{
+	font-family: arial;
+	font-size: 20px;
+}
+#disciplina{
+	font-family: arial;
+	border-style: solid;
+	border-color: #66CDAA;
+	border-width: 5px;
+}
+#volte{
+	font-family: arial;
+	font-size: 20px;
+}
+#texto{
+	font-family: arial;
+	font-size: 20px;
+}
+.info{
+	font-family: arial;
+	border-style: solid;
+	border-color: #66CDAA;
+	border-width: 5px;
+}
+.volte{
+	font-family: arial;
+	font-size: 20px;
+}

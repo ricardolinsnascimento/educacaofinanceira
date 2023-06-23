@@ -1,0 +1,21 @@
+body{
+	color: rgb(255 255 255);
+	background-color: rgb(0 0 0);
+	font-family: sans-serif;
+	font-size: 18px;
+}
+#logo{
+	background-color: rgb(255 255 255);
+}
+h1{
+	font-size: 40px;
+}
+h2{
+	font-size: 34px
+}
+footer{
+	font-size: 25px;
+	text-align: center;
+	background-color: rgb(70 70 70);
+	margin: 20px 20px 20px 20px;
+}

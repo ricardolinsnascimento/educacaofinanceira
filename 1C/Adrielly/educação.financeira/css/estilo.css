@@ -1,0 +1,45 @@
+body{
+	font-family: sans-serif;
+	background-color: rgb(220,220,220);
+	color: rgb(0,0,0);
+	margin: 50px;
+	border-color: rgb(123,104,238);
+
+}
+
+h1{
+	text-align: center;
+}
+
+h2{
+	text-align: center;
+}
+p{
+	color: rgb(75,0,130);
+	font-size: 20px;
+}
+
+figure{
+	margin-left: 100px;
+	margin-bottom: 60px;
+	text-align: center;
+}
+
+  footer{
+  	margin-top: 50px;
+  	background-color: rgb(	119,136,153);
+  	color: rgb(0,0,0);
+  	text-align: center;
+  	padding: 10px;
+}
+footer{
+  	color: rgb(0,0,0);
+
+ 
+}
+li{
+	color: rgb(220,20,60);
+}
+a{
+	color: rgb(	0,0,0);
+}

@@ -1,0 +1,64 @@
+body{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color: black;
+	color: white;
+	margin: 30px 40px 30px 40px;
+	text-align: center;
+}
+li{
+	list-style-position: inside;
+}
+h1{
+	color: white;
+	padding: 20px;
+	text-align: center; 
+}
+h2{
+	color: white;
+	text-align: center;
+}
+h3{
+	color: white;
+	text-align: center;
+}
+p{
+	color: rgb(255,255,255);
+	font-size: 20px;
+}
+figure{
+	margin-bottom: 50px;
+}
+<a href="index.html">Voltar à página inicial</a> </li>{
+	color: white;
+}
+#borda{
+	padding: 5px 5px 5px 5px;
+	border-width: px;
+	background-color: white
+}
+#rodape{
+	background-color: red;
+	padding: 15px;
+	text-align: center;
+}
+a{
+	color: red;
+	text-align: left;
+}
+div{
+	background-color: red;
+}
+#conteudo{
+	text-align: left;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color: black;
+	color: white;
+	margin: 30px 40px 30px 40px;
+}
+#info{
+	text-align: left;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color: black;
+	color: white;
+	margin: 30px 40px 30px 40px;
+}

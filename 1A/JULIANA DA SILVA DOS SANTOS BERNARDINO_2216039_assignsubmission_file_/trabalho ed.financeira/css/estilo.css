@@ -1,0 +1,74 @@
+body{
+ color:#FFFFFF;
+ background-color :#8B0000; 
+ background-image: url(../img/fundo4.jpg); 
+}
+
+h1{
+   background-color: ;
+   color: 	#000000;
+
+   padding-left: 10px;
+}
+
+h2{
+
+ color:#000000;
+}
+
+body{
+ font-family: FreeMono ;
+ font-size: 25px;
+ border-color:#008000; 
+ border-style: solid;
+ border-width: 5px ;
+ margin: 60px 80px 60px 80px ;
+ text-align:center;
+}
+figure{
+ margin-bottom:50px 
+}
+a{
+ color:#008000
+}
+}footer{
+
+ background-color:#FFFFFF;
+ color:#008000 ;
+ padding: 10px;
+ text-align: center;
+}
+li{
+ list-style-position:inside;
+ color:#008000;
+
+}
+P{
+  color:#000000;
+  font-family:American Typewriter ;
+  font-size: 20px;
+}
+#destaque{
+   background-color: #FFFFFFFF;
+   font-family: Cursive ;
+   font-size: 30px;
+}
+figure{
+   color: #000000;
+}
+#trabalho{
+   color:#FFFFFF;
+   background-color :#008000; 
+}
+.infografico{
+   color:#FFFFFF;
+   background-color :#008000; 
+}
+#redaçao{
+   color:#FFFFFF;
+   background-color :#008000; 
+}
+.casa{
+    color:#FFFFFF;
+   background-color :#008000; 
+}

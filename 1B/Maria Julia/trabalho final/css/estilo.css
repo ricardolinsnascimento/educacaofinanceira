@@ -1,0 +1,91 @@
+body{
+	font-family: sans-serif;
+	
+	background-color: rgb(238,232,170);
+	
+	margin-left: 50px;
+	padding-left: 100px;
+	margin-right: 40px;
+
+
+}
+#matemática{
+	color: rgb(255,0,0);
+	font-size: 40px;
+}
+#português{
+	color: rgb(255,105,180);
+	font-size: 40px;
+}
+#fdesenho{
+	color: rgb(255,140,0);
+	font-size: 40px;
+}
+#end{
+	color: rgb(0, 0, 255);
+	font-size: 40px;
+}
+.Matemática{
+	background-color: rgb(255,218,185);
+	border-radius: 0px;
+	font-size: 25px;
+
+}
+.Português{
+	background-color: rgb(255,228,225);
+	
+	font-size: 25px;
+
+}
+.desenho{
+	background-color: rgb(255,250,205);
+	font-size: 25px;
+
+}
+.front{
+	background-color: rgb(230,230,250);
+	font-size: 25px;
+
+}
+footer{
+	background-color: green;
+	font-size: 20px;}
+h1{
+	font-size: 20px;
+
+}
+#veja{
+	font-size: px;
+}
+.disciplina{
+	font-size: 60px;
+	color: rgb(28,28,28);
+
+}
+.voltar{
+	font-size: 25px;
+}
+ul{
+	font-size: 18px;
+}
+h2{
+	font-size: 30px;
+}
+.planilha{
+	background-color: rgb(176,224,230);
+}
+.topin{
+	font-size: 50px;
+}
+.topinh{
+	font-size: 18px;
+	color: rgb(28, 28, 28);
+}
+.imagem{
+	margin-bottom:60px;
+}
+.ifms{
+	font-size: 30px;
+	border-bottom: center;
+}
+

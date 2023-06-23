@@ -1,0 +1,10 @@
+TRABALHO DE PORTUGUÊS
+Bruno Paiva Hernandes
+Prof(a) Mariza
+IFMS – Campus Dourados
+
+
+
+	O quadro a seguir apresenta os dados relativos ao consumo de quatro aparelhos domésticos avaliados em cinco quesitos distintos. Essas informações são baseadas no uso desses equipamentos por uma pessoa ao longo de um período de 30 dias. 
+	O primeiro item mencionado é o chuveiro, o qual possui uma potência de 5500W e é utilizado por 50 minutos diariamente. Em média, o chuveiro consome cerca de 137 Kw/h e tem um custo mensal de aproximadamente R$ 109,92. O segundo aparelho é o computador, que conta com uma potência de 250W e é utilizado durante 3 horas. O consumo médio mensal do computador é de 225 Kw/h e representa um custo de R$ 18,00. Em seguida, temos a geladeira, que possui uma potência de 212W e é utilizada apenas por um minuto. Seu consumo mensal é de aproximadamente 0,0353 Kw/h, acarretando um custo mensal mínimo de R$ 0,08. Por fim, temos uma lâmpada com potência de 150W, a qual permanece acesa por três horas. Essa lâmpada consome cerca de 13,5 Kw/h mensalmente e resulta em um custo de R$ 10,80. 
+

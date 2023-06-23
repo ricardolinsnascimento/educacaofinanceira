@@ -1,0 +1,26 @@
+body{background-color: #9C9C9C;
+}
+figure{text-align: center;
+}
+h3{color: #E8E8E8;
+}
+h4{color: #E8E8E8;
+	font-size:20px;
+}
+li{color: #363636;
+	font-size: 19px;
+}
+p{color: #E8E8E8;
+}
+.link{color: #363636;
+}
+footer{background-color: #828282;
+	color: #E8E8E8;
+	border-radius: 300px;
+	text-align: center;
+}
+div{background-color: #828282;
+	border-radius: 300px;
+	color: #CFCFCF;
+	text-align: center;
+}

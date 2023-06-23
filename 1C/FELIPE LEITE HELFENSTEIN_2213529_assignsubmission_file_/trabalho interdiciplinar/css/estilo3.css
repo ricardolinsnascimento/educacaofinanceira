@@ -1,0 +1,27 @@
+
+h1{
+	font-family: arial;
+	font-size: 25px;
+	color: #000000;
+	padding-left: 320px;
+	border-top: 3px;
+	border-bottom: 3px;
+	border-left: 0px;
+	border-right: 0px;
+	border-style: solid;
+	border-color: 	#FF4040;
+
+}
+footer{
+	background-color: #5CACEE;
+	text-align: center;
+	padding: 10px ;
+	font-family: monospace;
+	font-size: 25px;
+}
+body{
+	background-color: #828282;
+}
+figure{
+	text-align: center;
+}

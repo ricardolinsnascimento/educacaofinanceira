@@ -1,0 +1,63 @@
+body{
+
+	background-image: url(../img/fundo.png);
+	font-family: sans-serif;
+	background-attachment: fixed; 
+	margin-left: 25px;
+	margin-top: 35px;
+}
+h1{
+	color: rgb(173,216,230);
+	text-align: center;
+	background-border: rgb(0,0,0);
+	padding-left: 100px;
+	margin: 50px 50px 50px 50px
+	
+}
+h2{
+	color: rgb(173,216,230);
+	text-align: center;
+	padding-left: 100px;
+	margin: 50px 50px 50px 50px
+
+}
+h3{
+	padding-left: 80px;
+	color: rgb(0,0,0);
+	background-color: rgb(100,149,237);
+	border-radius: 100px
+
+
+}	
+p{
+	color: rgb(0,0,0);
+	padding-left: 80px;
+	font-size: 20px;
+	margin: 30px 30px 30px 30px	
+}
+a{
+	color: rgb(176,224,230);
+	border-radius: 45px;
+	background-color: rgb(106,90,205);
+
+}
+iframe{
+	margin-left: 90px;
+}
+img{
+	text-align: center;
+	margin: 10px 10px 10px 10px;
+	border-radius: 50px
+
+}
+footer{
+	padding-left: 80px;
+	font-size: 20px;
+	margin: 30px 30px 30px 30px;
+}
+div{
+	text-align: center;
+} 
+strong{
+	color: rgb(135,206,235);
+}

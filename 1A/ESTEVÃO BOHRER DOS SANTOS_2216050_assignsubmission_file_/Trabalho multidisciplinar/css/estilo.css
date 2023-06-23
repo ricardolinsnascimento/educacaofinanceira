@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(46, 219, 110);
+	text-align: center;
+	margin: 20px 40px 10px 40px
+}
+p{
+	color: rgb();
+	
+}
+h1{
+	background-color: rgb(7, 148, 59);
+}
+h2{
+	background-color: rgb(44, 191, 98);
+}
+a{
+	color: rgb(1, 130, 49);
+}
+footer{
+	background-color: rgb(6, 82, 34);
+	color: rgb(89, 247, 147);
+	margin: 5px 40px 5px 40px
+}
+#video{
+	background-image: url(../img/dinheiro.jpg);
+}
+.p1{
+	background-color: rgb(46, 219, 110);
+	margin: 10px 210px 20px 210px
+}
+li{
+   list-style-type: none;
+}

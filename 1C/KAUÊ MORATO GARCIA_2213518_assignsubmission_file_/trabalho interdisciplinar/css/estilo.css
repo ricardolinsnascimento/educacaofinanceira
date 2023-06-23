@@ -1,0 +1,45 @@
+body{
+		margin: 30px 40px 30px 40px;
+		background-color: rgb(80,200,120);
+	}
+	h1{
+		color: rgb(0,0,0);
+		padding: 10px 10px 10px 20px;
+	}
+	h2{
+		color: rgb(255,255,255);
+		padding-left: 10px;
+
+	}
+	ul{
+		
+	}
+	figure{
+		margin-left: 100px;
+		margin-bottom: 50px;
+	}
+	footer{
+		text-align: center; 
+		background-color: red;
+		color: white;
+		padding: 10px;
+		margin-top: 40px;
+	}
+
+	#destaque{
+		font-size: 30px;
+
+	}
+
+	#border{
+		border-color: white;
+		border-style: dotted;
+		border-width: 2px;
+		padding: 5px 5px 10px 5px; 
+	}
+
+	.textin{
+		color: rgb(255,255,255);
+	}
+
+	

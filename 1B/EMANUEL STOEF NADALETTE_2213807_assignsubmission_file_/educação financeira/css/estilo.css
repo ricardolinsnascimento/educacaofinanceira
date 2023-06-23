@@ -1,0 +1,43 @@
+h1{
+	background-color: rgb(48, 135, 42);
+	color: rgb(255, 255, 255);
+	border-color: rgb(38, 214, 26);
+	border-style: solid;
+	border-width: 4px;
+	font-size: 60px;
+	padding: 5px;
+}
+footer{
+	text-align: center;
+	background-color: rgb(48, 135, 42);
+	color: rgb(255, 255, 255);
+	font-size: 20px;
+	padding: 5px;
+}
+body{
+	font-family: sans-serif;
+	font-size: 20px;
+	margin: 40px;
+	background-color: rgb(235, 228, 221);
+}
+h3{
+	background-color: rgb(48, 135, 42);
+	color: rgb(255, 255, 255);
+	padding: 4px;
+}
+#matematica{
+	margin-right: 1650px;
+}
+#lplb{
+	margin-right: 1230px;
+}
+#fdd{
+	margin-right: 1500px;
+}
+#center{
+	text-align: center;
+}
+iframe{
+	margin: 50px;
+}
+

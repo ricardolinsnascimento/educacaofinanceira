@@ -1,0 +1,117 @@
+body{
+
+    font-family: monospace;
+
+
+
+}
+
+#mat1{
+
+
+
+color:	#00008B;
+
+}
+
+
+#pt1{
+
+
+   color:#FF0000;
+
+
+}
+
+
+#frdd{
+
+
+ color:	#FFD700;
+
+
+}
+
+
+#fr{
+
+
+	color:	#00FF00;
+}
+
+
+footer{
+
+
+  padding:10px;
+  color:white;
+  background-color:#B0C4DE;
+  text-align:center;
+
+}
+
+figure{
+
+padding :10px 10px 10px 10px;
+
+
+
+}
+
+#prici{
+
+
+   text-align:center; 
+
+}
+
+
+.info{
+
+
+
+	font-size: 20px;
+}
+
+
+
+.cont{
+
+
+   font-size: 20px;
+
+}
+
+
+
+#cond{
+
+
+
+	font-size:20px;
+}
+
+
+#ptmt{
+
+
+
+
+	font-size:25px;
+}
+
+
+#dsn{
+
+
+ font-size:25px;
+
+
+}
+
+
+.pi{
+
+  font-size:20px;
+
+}

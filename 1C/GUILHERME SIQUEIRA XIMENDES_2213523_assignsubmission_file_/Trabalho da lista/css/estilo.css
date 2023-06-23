@@ -1,0 +1,33 @@
+div{
+	text-align: center;
+}
+h1{
+	text-align: center;
+	background-color: #32CD32;
+	font-size: 50px;
+}
+li{
+	font-size: 37px;
+}
+ul{
+	margin: 0px 0px 0px 600px;
+}
+p{
+	font-size: 38px;
+	text-align: center;
+	margin: 5px 10px 0px 10px;
+}
+p.a{
+	background-color: #32CD32;
+}
+p.b{
+	font-size: 60px;
+	margin: 5px 10px 0px 10px;
+color: #008000;
+}
+a{
+	color: #FF0000;
+}
+strong.nome{
+	color: #0000CD;
+}

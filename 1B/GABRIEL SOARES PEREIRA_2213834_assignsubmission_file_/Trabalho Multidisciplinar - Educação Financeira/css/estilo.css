@@ -1,0 +1,17 @@
+body{
+	text-align: center;
+	font-size: 40px;
+}
+li{
+	list-style-position: inside;
+}
+img{
+	margin-bottom: 15px;
+}
+footer{
+	border-style: ridge;
+	border-width: 20px;
+	border-color: rgb(40, 132, 0);
+	background: rgb(40, 132, 0);
+	color: rgb(255, 255, 255);
+}

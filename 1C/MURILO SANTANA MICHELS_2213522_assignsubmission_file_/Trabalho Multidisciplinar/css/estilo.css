@@ -1,0 +1,75 @@
+body {
+    font-family: Arial, sans-serif;
+    color: rgb(48, 48, 48);
+    font-size: 30px;
+}
+.titulos {
+    font-size: 50px;
+    text-align: center;
+}
+.subtitulos {
+    margin-top: 50px;
+    font-size: 40px;
+    text-align: center;
+}
+#logoif {
+    height: 160px;
+    width: auto;
+    background-color: rgb(243, 243, 243);
+    padding-right: 1500px;
+    margin: -10px 0px 0px -10px;
+}
+#exp {
+    font-size: 30px;
+    margin-left: 50px;
+}
+iframe {
+    width: 75%;
+    height: 75%;
+    margin-left: 12.5%;
+}
+.tlinks {
+    font-size: 32.5px;
+    color: rgb(14, 146, 73);
+    margin-left: 50px;
+    margin-top: 20px;
+}
+#planilha {
+    width: 75%;
+    height: auto;
+    margin-left: 12.5%;
+}
+footer {
+    font-size: 40px;
+    text-align: center;
+    background-color: rgb(14, 146, 73);
+    color: #ffffff;
+    padding: 30px;
+    margin: 0px -25px -25px -25px;
+}
+#infografico {
+    width: 75%;
+    height: auto;
+    margin-left: 12.5%;
+}
+.links {
+    color: rgb(48, 48, 48);
+    border-color: rgb(14, 146, 73);
+	border-style: dotted;
+	border-width: 3px;
+}
+li {
+    margin-top: 10px;
+}
+.tdescritivo {
+    margin-left: 12.5%;
+    margin-right: 12.5%;
+}
+#casa {
+    width: 75%;
+    height: auto;
+    margin-left: 12.5%;
+}
+.lista {
+    margin-left: 12.5%;
+}

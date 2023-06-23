@@ -1,0 +1,142 @@
+body {
+    background-color: #ffff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.inicial {
+    background-color: rgb(39, 0, 123);
+    border-radius: 50px;
+    padding: 5px;
+}
+h1 {
+    padding-left: 30px;
+    color: #ffff
+}
+img.logotipo {
+    margin-left: 17px;
+}
+div.links-externos {
+    background-color: rgb(39, 0, 123);
+    padding: 20px;
+    margin-top: 30px;
+    font-size: 23px;
+}
+a.conteudo {
+    padding-left: 30px;
+    color: #ffff;
+}
+a.intografico {
+    padding-left: 500px;
+    color: #ffff;
+}
+a.educa-mais-brasil {
+    padding-left: 400px;
+    color: #ffff;
+}
+h2 {
+    background-color: rgb(39, 0, 123);
+    padding: 30px;
+    border-radius: 30px;
+    color: #fff    
+}
+#matematica {
+    background-color: yellow;
+}
+#portugues {
+    background-color: green;
+}
+#ferramenta-de-desenho {
+    background-color:  purple;
+}
+#front-end {
+    background-color: rgb(18, 18, 255);
+}
+#trabalho-multidisciplinar {
+    background-color: gray;
+}
+.imagem-link-matematica {
+    border-radius: 50px;
+    margin-left: 700px;
+    margin-top: -90px;
+}
+.imagem-link-portugues {
+    border-radius: 100px;
+    margin-left: 6%;
+    margin-top: -90px;
+}
+.imagem-link-ferramenta-de-desenho{
+    border-radius: 100px;
+    margin-left: 6%;
+    margin-top: -90px;
+}
+.imagem-link-indisciplinar{
+    border-radius: 100px;
+    margin-left: 7%;
+    margin-top: -90px;
+}
+.imagem-link-front-end {
+    border-radius: 100px;
+    margin-left: 6%;
+    margin-top: -90px;
+}
+h3 {
+    font-size: 30px;
+    padding: 30px;
+    border-radius: 30px 30px 0 0px;
+    margin-right: 1200px;
+}
+p {
+    font-size: 30px;
+    padding: 50px;
+    margin-top: -70px;
+    border-radius: 0 30px 30px 30px;
+    font-style: inherit;
+}
+.trabalho-multidisciplinar {
+    border-radius: 100px;
+    margin-left: 6%;
+    margin-top: -90px;
+}
+iframe {
+    border-radius: 50px;
+}
+.documentario {
+    margin-left: 600px;
+    margin-top: -300px;
+    background-color: aqua;
+    border-radius: 50px;
+}
+footer {
+    background-color: black;
+    color: #ffff;
+    padding-left: 17%;
+    margin: 150px -5% -5% -5%;
+}
+.tabela {
+    border-radius: 50px;
+    margin-top: 100px;
+    margin-left: 200px;
+}
+.texto-redação {
+    padding-top: 10px;
+    margin-top: 8%;
+    padding-left: 50px;
+    padding-right: 90px;
+}
+.links-conteudo {
+    background-color: #000;
+    color: white;
+    padding: 30px;
+}
+h1.titulo-preto {
+    color: #000;
+    padding-left: 430px;
+    padding-top: 50px;
+}
+.link-infografico {
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 50px;
+    border-width: 10px 0 10px 0px;
+    border-style: solid;
+    border-color: #000;
+}

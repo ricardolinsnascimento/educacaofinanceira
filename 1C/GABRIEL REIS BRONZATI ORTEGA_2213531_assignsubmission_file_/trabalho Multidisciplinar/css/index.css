@@ -1,0 +1,166 @@
+body{
+	background-image: url(../img/fund.jpg);
+	background-size: 2000px;
+	font-family: sans-serif;
+	font-size: 35px;
+	margin: 10px 60px 10px 60px;
+}
+#links{
+	border-style: double;
+	border-width: 10px;
+	padding: 30px;
+	border-radius: 30px;
+	margin: 0px 800px 0px 0px;
+	border-color:#00FFFF ;	
+}
+.exm{
+	color:#483D8B ;
+}
+.exp{
+	color:#483D8B
+}
+.exd{
+	color:#483D8B
+}
+.exf{
+	color:#483D8B
+}
+.exv{
+	color:#483D8B
+}
+.exi{
+	color:#483D8B
+}
+.exc{
+	color:#483D8B	
+}
+h1{
+	text-align: center;
+}
+h2{
+	color: #00FFFF;
+	background-color: #483D8B;
+	padding: 30px;
+	border-radius: 30px;
+	padding: 10px;
+}
+h3{
+	color: #00FFFF;
+	background-color: #483D8B;
+	padding: 30px;
+	border-radius: 30px;
+	padding: 10px;
+	margin: 0px 600px 0px 0px;
+
+}
+#matemática{
+	color: #00FFFF;
+	background-color: #483D8B;
+	padding: 30px;
+	border-radius: 30px;
+	padding: 10px;
+	margin: 0px 500px 0px 0px;
+
+}
+#português{
+	color: #00FFFF;
+	background-color: #483D8B;
+	padding: 30px;
+	border-radius: 30px;
+	padding: 10px;
+	margin: 0px 700px 0px 0px;
+
+}
+#desenho{
+	color: #00FFFF;
+	background-color: #483D8B;
+	padding: 30px;
+	border-radius: 30px;
+	padding: 10px;
+	margin: 0px 800px 0px 0px;
+}
+h6{
+	color: #00FFFF;
+	background-color: #483D8B;
+	padding: 30px;
+	border-radius: 30px;
+	padding: 10px;
+	font-size: 30px;
+	margin: 0px 900px 0px 0px;
+}
+#inf{
+	text-align: center;
+}
+.voltar{
+	color: #483D8B;
+}
+#likcon{
+	border-style: double;
+	border-width: 10px;
+	padding: 30px;
+	border-radius: 30px;
+	margin: 0px 800px 0px 0px;
+	border-color:#00FFFF ;
+}
+.pla{
+	color:#483D8B
+}
+.tex{
+	color:#483D8B
+}
+.des{
+	color:#483D8B
+}
+.t{
+	color: #00FFFF;
+	background-color: #483D8B;
+	padding: 30px;
+	border-radius: 30px;
+	padding: 30px;
+	font-size: 30px;
+	margin: 100px 100px 100px 100px
+}
+#planilha{
+	text-align: center;
+}
+#casa{
+	color: #00FFFF;
+	background-color: #483D8B;
+	padding: 30px;
+	border-radius: 30px;
+	padding: 30px;
+	font-size: 30px;
+	margin: 100px 100px 100px 100px;
+}
+#cas{
+	text-align: center;
+}
+#tx{
+	text-align: center;
+	font-size: 30px;
+}
+p{
+	font-family: monospace;
+}
+a{
+	color: #000000;
+}
+img.logo {
+	border: 6px;
+	border-style: solid;
+	border-radius: 10px;
+	border-color: #f0f0f0;
+}
+div {
+	color: #000000;
+	font-size: 20px;
+}
+footer {
+	text-align: center;
+	background-color: #808080;
+	border-radius: 25px;
+	border-style:solid;
+	padding: 30px;
+	font-size: 25px;
+	color: #000000;
+}

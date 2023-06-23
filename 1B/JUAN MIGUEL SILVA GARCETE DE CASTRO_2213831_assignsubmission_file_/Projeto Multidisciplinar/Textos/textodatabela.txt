@@ -1,0 +1,5 @@
+Os dados do quadro acima referem-se aos 5 itens de uma pessoa.O primeiro é o chuveiro, utilizado cerca de 25 minutos por dia, tem 5500w de potência. Seu custo mensal é de R$64,63 e o consumo é de 68,75 Kw/h.
+Já o televisor, utilizado cerca de 120 minutos, tem 54,9w de potencência.Seu custo mensal é de R$3,10 e o consumo é de 3,294 Kw/h.
+Quanto o ventilador, utilizado cerca de 120 minutos, tem 65w de potência.Seu custo mensal é de R$3,67 e o consumo é de 3,9 Kw/h.
+Já à geladeira, utilizada cerca de 6 minutos, tem 54w de potência.Seu custo mensal é R$0,15 e o consumo é de 0,162 Kw/h.
+Por fim, a lampada, utilizada cerca de 300 minutos, tem 12w de potência.Seu custo mensal é R$1,69 e o consumo é de 1,8 Kw/h.

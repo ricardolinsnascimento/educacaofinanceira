@@ -1,0 +1,42 @@
+body{
+			background-color: rgb(144,238,144);
+			margin: 20px 30px 30px 30px;
+			text-align: center;
+	}
+	footer{
+		background-color: rgb(60,179,113);
+		font-famil: sans-serif;
+		margin-bottom: 40px 40px 40px 40px;
+		border-bottom: 20px 20px 20px 20px;
+	}
+	li{
+		list-style-position: inside;
+	}
+	#materias{
+		background-color: rgb(152,251,152);
+	}
+	#cor{
+		border-style: dotted;
+		border-width: 1px;
+		color: rgb(0,0,0);
+	}
+	#resumo{
+		background-color: rgb(152,251,152);
+	}
+	#conteudo{
+		background-color: rgb(152,251,152);
+		margin-bottom: 30px 30px 30px 30px;
+	}
+	h2{
+		background-color: rgb(152,251,152);
+		border-color: rgb(40,206,09);
+		border-style: solid;
+		border-width: 3px;	
+	}
+	#conteudo2{
+		background-color: rgb(152,251,152);
+		border-color: rgb(0,255,127);
+		border-style: solid;
+		border-width: 2px;
+		font-size: 20px;	
+	}

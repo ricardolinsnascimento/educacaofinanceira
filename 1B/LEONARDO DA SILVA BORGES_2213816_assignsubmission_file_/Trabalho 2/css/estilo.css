@@ -1,0 +1,18 @@
+body{
+	font-family: sans-serif;
+	background-color: #c5e2fa;
+	margin: 30px;
+}
+h1{
+	text-align: center;
+	background-color: #f0f4f7;
+}
+.img{
+	text-align: center;
+}
+#video{
+	text-align: center;
+}
+#titulos{
+	text-align: center;
+}

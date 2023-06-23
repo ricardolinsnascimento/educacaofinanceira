@@ -1,0 +1,151 @@
+#logo {
+    height: 600px;
+    background-color: none;
+    object-fit: fill;
+    object-position: center;
+    border:none;
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+footer {
+    font-size: 20px;
+    font-family: "Monaco", monospace;
+}
+
+h1 {
+    border: none;
+    background-color: rgb(0, 137, 2);
+    font-family: "Arial", Helvetica, sans-serif;
+    font-size: 45px;
+    color: rgb(0, 0, 0);
+}
+
+h2 {
+    border-radius: none;
+    background-color: rgb(0, 137, 2);
+    font-family: "Arial", Helvetica, sans-serif;
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+}
+
+h3 {
+    border-spacing: 50px;
+    border-radius: none;
+    background-color: rgb(0, 137, 2);
+    font-size: 35px;
+    font-family: "Arial", Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+li {
+    border-left: 500px;
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    text-align: justify;
+    list-style: inside;
+}
+
+ul {
+    text-align: center;
+    list-style: inside;
+    background-color: none;
+    font-size: 30px;
+    font-family: "Arial", Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+ul.menu {
+  display: inline-block;
+  text-align: left;
+}
+
+p {
+    font-size: 30px;
+    font-family: "Arial", Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+a {
+    margin-bottom: 20px;
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+}
+
+.container {
+    text-align: center;
+    border: 0px;
+}
+
+figcaption {
+    color: rgb(0,0,0);
+}
+
+#return {
+    margin-bottom: 20px;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+}
+
+#disc2{
+    border: 10px;
+    border-style: ridge;
+    border-color: rgb(0, 137, 2);
+    background-color: rgb(218, 218, 218);
+    font-size: 35px;
+    font-family: "Arial", Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+#menu {
+    border-style: ridge;
+    border-color: rgb(0, 137, 2);
+    background-color: rgb(218, 218, 218);
+    border: 20px;
+    display: inline-block;
+    text-align: left;
+    font-size: 30px;
+    font-family: "Arial", Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+#plan {
+    border-style: ridge;
+    border-color: rgb(0, 137, 2);
+    background-color: rgb(218, 218, 218);
+    height: 900px;
+    object-fit: fill;
+    object-position: center;
+    border: 15px;
+}
+
+#disc{
+    border: 10px;
+    border-style: ridge;
+    border-color: rgb(0, 137, 2);
+    background-color: rgb(218, 218, 218);
+    font-size: 25px;
+    font-family: "Arial", Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+#plant {
+    border-style: hidden;
+    height: 900px;
+    object-fit: fill;
+    object-position: center;
+    margin-right: 300px;
+}
+
+#info {
+    border-style: ridge;
+    border-color: rgb(0, 137, 2);
+    background-color: rgb(218, 218, 218);
+    height: 1200px;
+    object-fit: fill;
+    object-position: center;
+    border: 15px;
+    margin-bottom: 40px;
+}

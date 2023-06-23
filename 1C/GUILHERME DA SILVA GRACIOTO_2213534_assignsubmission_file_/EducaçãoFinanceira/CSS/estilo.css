@@ -1,0 +1,39 @@
+body{
+	background-color: #F8F8FF;
+	font-family: sans-serif;
+}
+h1{
+	background-color: #006400;
+	color: rgb(255,255,255);
+	padding: 7px, 5px, 7px, 5px;
+	border-style: groove;
+	border-color: #004900;
+	border-width: 5px;
+}
+h2{
+	background-color: #008B00;
+	padding: 5px;
+}
+footer{
+	background-color: #BEBEBE;
+	text-align: center;
+	font-size: 14px;
+}
+.info{
+	text-align: center;
+}
+#texto{
+	font-size: 20px;
+}
+.conteudo{
+	background-color: #009900;
+	text-align: center;
+	margin-left: 250px;
+	margin-right: 250px;
+}
+#borda{
+	border-color: #009900;
+	border-style: double;
+	border-width: 10px;
+	padding: 0px 20px 0px 20px;
+}

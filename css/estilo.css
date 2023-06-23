@@ -1,0 +1,94 @@
+
+body{
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	background: black;
+}
+
+.letreiro{
+	color: rgb(0,100,0);
+	font-size: 60px;
+	text-shadow: rgb(255,255,255) 2px 3px 2px;
+	
+	
+}
+
+.topo{
+	margin-top:  20px;
+	margin-bottom: 20px;	
+	padding-bottom: 20px;
+	background-image: url(../img/fundo.jfif);
+	background-size: cover;	
+}
+
+.listas{
+	min-height: 500px;	
+}
+
+.lista{
+	margin:  20px 20px 20px 100px;
+	opacity: .4;
+
+}
+
+.texto-link{
+	color: black
+	
+}
+
+.botoes{
+	margin-left: 100px;
+	margin-bottom: 20px;
+}
+
+
+.titulo {	
+	text-align: center;
+	padding-bottom: 20px;
+}
+
+.rodape{	
+	padding-top:  10px;	
+	padding-bottom:  5px;	
+	text-align: center;
+	background-color: white;
+	opacity: .7;
+	color: rgb(0,0,0);
+
+	
+}
+
+.subtitulo{
+	text-align: center;
+	opacity: .4;
+	color: rgb(0,0,0);
+	font-size: 20px;
+	text-shadow: rgb(255,255,255) 2px 3px 2px;c
+}
+
+.botao{
+	margin-right: 10px;	
+}
+
+#T1A{
+	display: none;
+}
+
+#T1B{
+	display: none;
+}
+
+#T1C{
+	display: none;
+}
+
+#T1D{
+	display: none;
+}
+
+#TTE{
+	display: none;
+}
+
+.turma{
+	font-size: 30px;
+}

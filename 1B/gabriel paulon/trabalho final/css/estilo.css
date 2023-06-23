@@ -1,0 +1,37 @@
+/* Estilo para tags HTML */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    color: #e83278;
+ }
+
+h1 h2 {
+     list-style-type: none;
+    padding: 10px;
+    margin: 10px;
+}
+ul li  {
+    display: inline-grid;
+    margin-right: 15px;
+}
+
+
+/* Estilo para ID */
+#conteudo1 {
+    margin-top: 40px;
+}
+
+/* Estilo para class */
+.footer-text {
+    font-size: 20px;
+    text-align: center;
+}
+.logo {
+    max-width: 10%;
+    height: 10%;
+}
+.infografico{
+    max-width: 40%;
+    height: 40%;
+}

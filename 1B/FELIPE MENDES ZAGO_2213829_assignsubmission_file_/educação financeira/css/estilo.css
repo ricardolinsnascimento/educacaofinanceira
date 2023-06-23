@@ -1,0 +1,32 @@
+body{background-image: url(../img/fundo.jpg);
+	border: 10px solid #555;
+}
+h1 { text-align: center; 
+}
+p { text-align: center; 
+}
+footer {text-align: center;
+	background-color: #858585
+}
+h2 {text-align: center; 
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+img{border: 5px solid #555;
+}
+.rotate90 {
+    -webkit-transform: rotate(-90deg);
+    -moz-transform: rotate(-90deg);
+    -o-transform: rotate(-90deg);
+    -ms-transform: rotate(-90deg);
+    transform: rotate(-90deg);
+      display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+}

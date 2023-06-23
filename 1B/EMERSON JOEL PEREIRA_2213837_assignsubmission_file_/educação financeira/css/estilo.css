@@ -1,0 +1,76 @@
+body {background-color: rgb(128,128,128);
+		margin-left: 200px;
+		margin-top: 20px;
+		margin-right: 200px
+}
+img {		
+		text-align: center;
+}
+h1 {
+		font-family: serif;
+		text-align: center;
+}
+h2 {
+		font-family: serif;
+		border-width: 2px;
+		padding-left: 50px
+		font-size: 50px;
+		text-align: center;
+}
+h3 {
+		font-family: serif;
+		border-width: 2px;
+		padding-left: 50px
+		font-size: 50px;
+		text-align: center;
+}
+h4{
+		font-family: serif;
+		border-width: 2px;
+		padding-left: 50px
+		font-size: 50px;
+		text-align: center;		
+}
+p{
+		font-family: serif;
+		border-width: 2px;
+		padding-left: 50px
+		font-size: 50px;
+		text-align: center;
+}
+li{
+		font-family: serif;
+		border-color: rgb(160,32,240);
+		padding-left: 10px;
+		list-style-position: inside;
+}
+iframe{
+		margin-left: 200px;
+		margin-right: 200px;
+}
+#capa{
+		margin-left: 200px;
+		margin-right: 200px;
+}
+footer{
+		padding: 10px;
+		color: rgb(255,255,255);
+		background-color: rgb(99,33,99);
+		text-align: center;
+}
+#borda{
+		border-style:solid;
+		border-width: 2px;
+		background-color:rgb(255,255,255);
+}
+.rodape{
+		font-family: serif;
+		border-width: 2px;
+		padding-left: 50px
+		font-size: 50px;
+		text-align: center;
+}
+
+#logotipo{
+	text-align: center;
+}

@@ -1,0 +1,39 @@
+head{
+  background-color: blue;
+  text-align: center;
+  align-items: center;
+}
+body{
+  background-color: blue;
+  text-align: center;
+  align-items: center;
+ 
+}
+h1{
+ color:rgb(0,0,0);
+}
+
+}
+iframe{
+ margin-left: 850px;
+}
+p{
+  margin-left: 70px;
+  margin-right: 80px;
+  padding-left: 50px;
+  text-align: center;
+
+}
+
+footer {
+ padding: 10px;
+ color: white;
+ background-color:#BA55D3;
+ text-align: center; 
+}
+
+}
+.div{
+  background-color:#BA55D3;
+  color: blue;
+}

@@ -1,0 +1,11 @@
+O objetivo deste projeto é auxiliar os estudantes a desenvolver habilidades de trabalho em equipe e conscientizá-los sobre o consumo de energia em suas residências. Cada professor de disciplina designou uma parte do trabalho para ser realizada em conjunto neste site.
+
+O professor Sonivaldo, responsável pela disciplina de Matemática, solicitou que elaborássemos uma tabela contendo as seguintes informações: potência (em Watts) do produto, tempo de uso, consumo diário, quantidade de dias de uso, consumo mensal e valor do kWh.
+
+Por sua vez, a professora Mariza, que ministra a disciplina de Português, pediu que criássemos um texto a partir das informações contidas na tabela fornecida pelo professor Sonivaldo.
+
+O professor Thiago, responsável pela disciplina de Ferramenta de Desenho, instruiu-nos a criar uma ilustração da residência dos alunos.
+
+Por fim, o professor Ricardo encarregou-nos de desenvolver este site para apresentar o trabalho completo.
+
+Com base nessas orientações, estamos empenhados em cumprir cada uma das tarefas atribuídas, trabalhando de forma colaborativa para alcançar os melhores resultados possíveis.

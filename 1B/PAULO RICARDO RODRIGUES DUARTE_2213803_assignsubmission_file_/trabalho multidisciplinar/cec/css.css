@@ -1,0 +1,42 @@
+body{
+	background-image: url(../img/fundo.jpg);
+	font-family: sans-serif;
+	margin-left: 10px;
+
+}
+h1{
+	color: rgb(8, 161, 30);
+}
+img{
+	border-color: rgb(1, 48, 5);
+	border-style: solid;
+	border-width: 2px;
+}
+ul{
+	border-color: rgb(5, 92, 19);
+	border-style: solid;
+	border-width: 2px;
+}
+footer{
+	background-color: rgb(105, 102, 98);
+}
+#bb{
+	border-style: solid;
+	border-color: rgb(1, 48, 5);
+	border-width: 2px;
+}
+#pa{
+	font-size: 30px;
+	color: rgb(269, 67, 11);
+	text-align: center;
+}
+#conteudo{
+	font-size: 50px;
+	color: rgb(0, 10, 4);
+}
+.lindo{
+background-color: rgb(173, 170, 168);
+border-width: 3px;
+border-style: solid;
+border-color: rgb(1, 1, 1);
+}

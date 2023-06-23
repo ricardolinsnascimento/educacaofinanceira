@@ -1,0 +1,28 @@
+body{
+	background-color: #82f5bb;
+	margin-right: 100px;
+	margin-left: 100px;
+	font-family: cursive;
+}
+
+footer{
+	text-align: center;
+	background-color: #4db882;
+	color: rgb(255,255,255);
+}
+
+a{
+	text-decoration: none;
+}
+
+ul{
+		list-style-type: circle;
+}
+
+#center{
+	text-align: center;
+}
+
+p{
+	font-size: 20px;
+}

@@ -1,0 +1,26 @@
+body{
+	font-size: 22px;
+	font-family: sans-serif;
+	background-color: #c9c99b;
+	text-align: center;
+	margin-right: 100px;
+	margin-left: 100px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+} li{
+	list-style-position: inside;
+} #materias{
+	text-align: left;
+	padding-left: 50px;
+} .titulo{
+	color: #232624;
+} footer{
+	background-color:#526958;
+}a{
+	color: rgb(0,0,0);
+} #inicio{
+	color: #133b1e;
+} #texto{
+	padding-left: 150px;
+	padding-right: 150px;
+}

@@ -1,0 +1,15 @@
+body{ 
+text-align: center;
+background-color: green;
+font-family: sans-serif;
+}
+  footer{
+  	background-color: red;
+  	padding: 7px;
+  }
+   img{
+   	width: 700px;
+   }
+   #borda{
+   	border-style: solid;
+   }

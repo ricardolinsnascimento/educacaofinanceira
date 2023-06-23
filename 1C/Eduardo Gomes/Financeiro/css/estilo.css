@@ -1,0 +1,152 @@
+body{
+	font-family: arial,helvetica, sans-serif;
+	color: #4169E1;
+	background-color: #4F4F4F;
+}
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+header{
+	width: 100%;
+	background-color: #4169E1;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	padding: 20px 0;
+}
+.titulo h1{
+	font-size: 60px;
+	text-align: center;
+	background-color: #000000;
+	color: #FFFFFF;
+}
+.info h1{
+	font-size: 50px;
+	text-align: center;
+	color: #FFFFFF;
+}
+
+.logo-imagem{
+	width: 200px;
+	height: 80px;
+}
+.container-logo{
+	display: flex;
+	align-items: center;
+}
+.logo-texto{
+	margin-left: 20px;
+	color: white;
+}	
+.menu li{
+	display: inline-block;
+	margin: 0 10px;
+}
+.menu li a{
+	margin-left: 40px;
+	font-size: 12px;
+	text-decoration: none;
+	color: white;
+	text-transform: uppercase;
+	padding: 10px 15px;
+	border-radius: 15px;#4169E1
+}
+.menu li a:hover{
+	background-color: rgba(100, 100, 100, 0.5);
+}
+.financeiro{ 
+	width: 100%;
+	background-color: #000000;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 20px 0; 
+}
+.financeiro img{
+	width: 450px;
+	height: 350px;
+	padding-left: 30px;
+}
+
+.info p{
+	padding-left: 20px;
+	font-size: 23px;
+	margin-bottom: 5px;
+	color: #4169E1;
+}
+.tg{
+	font-size: 25px;
+	margin-left: 5px;
+}
+.tg p{
+	color: #FFFFFF;
+}
+.video{
+	margin-left: 40px;
+	margin-bottom: 20px;
+	align-items: center;
+	text-align: center;
+
+}
+footer{
+	width: 100%;
+	background-color: #000000;
+	justify-content: space-around;
+	align-items: center;
+	padding: 20px 0;
+}
+footer img{ 
+	width: 20px;
+	height: 20px; 
+	border-radius: 100%;
+}
+.links li{
+	display: inline-block;
+	margin: 0 60px;
+}
+.links li a{ 
+	color: #4169E1;
+	display: flex;
+	text-decoration: none;
+	padding: 20px 0;
+	font-size: 18px;
+	border-radius: 15px;
+	margin-bottom: 20px;
+	padding: 0 60px;
+}
+.links li a:hover{
+	background-color: rgba(100, 100, 100, 0.7);
+}
+.desenvolvedor{
+	justify-items: column;
+	width: 100%;
+	text-decoration: none;
+}
+.desenvolvedor h3{ 
+	background-color: #32CD32;
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 25px;
+}
+.pl{ 
+	text-align: center; 
+	margin-bottom: 10px;
+}
+.tdp h2{ font-size:40px; }
+.tdp p{
+	font-size: 20px;
+	margin-bottom: 4px;
+}
+.tdp img{
+	width: 500px;
+	right: 500px;
+}
+.g{
+	display: flex;
+}
+.g img{ 
+	width: 400px;
+	right: 200px;
+ }

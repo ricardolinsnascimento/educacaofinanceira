@@ -1,0 +1,49 @@
+body{
+	font-family: sans-serif;
+	background-color: rgb(196,243,209);
+	margin:80px;
+	text-align: center;
+}
+h1{
+	color:rgb(0,0,0)
+	background-image:url(../img/Claro.jfif);
+	pedding-left: 30px;
+	pedding-top: 15px;
+	pedding-bottom: 15px;
+	text-align: center;
+}
+p{
+	color:green;
+	font-size: 25px;
+}
+figure{
+	margin-bottom: 60px;
+}
+
+a{
+	color:rgb(0,0,0);
+	color: green
+}
+
+footer{
+	background-color: rgb(255,255,255);
+	padding: 10px;
+	text-align: center;
+}
+#destaque{
+	font-size: 25px;
+}
+
+.infografico{
+	background-color :rgb(196,243,209);
+	font-size: 25px;
+}
+.conteudo{
+	color: green;
+	background-color: rgb(149,236,173);
+	font-size: 25px;
+}
+#botoes{
+	text-align: center;
+}
+	

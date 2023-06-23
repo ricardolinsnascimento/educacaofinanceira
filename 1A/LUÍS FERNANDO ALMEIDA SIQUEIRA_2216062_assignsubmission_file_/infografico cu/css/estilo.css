@@ -1,0 +1,56 @@
+body{
+	text-align: center;
+	font-family: sans-serif,system-ui;
+	background-image: url("img/bg.jpg")
+}
+
+a{
+	color: white;
+	text-decoration: none;
+	font-family: fantasy,system-ui,sans-serif;
+}
+
+.meusite{
+	border-style: solid;
+	border-width: 2px;
+	border-color: black;
+	background-color: #007100;
+	margin-left: 460px;
+	margin-right: 460px;
+	margin-bottom: 30px;
+	padding: 5px;
+	font-size: 30
+}
+
+.linkexterno{
+	background-color: #00003f;
+	border-style: solid;
+	border-width: 2px;
+	border-color: black;
+}
+
+footer{
+	background-color: #207107;
+	padding: 30px;
+	font-family: fantasy,system-ui,sans-serif;
+	color: white
+}
+
+#logo{
+	width: 1100px;
+}
+
+p{
+	margin-left: 300px;
+	margin-right: 300px;
+}
+
+.conteudo{
+	width: 960:;
+	margin-bottom: 20px;
+}
+
+img{
+	border-style: solid;
+	border-color: black
+}

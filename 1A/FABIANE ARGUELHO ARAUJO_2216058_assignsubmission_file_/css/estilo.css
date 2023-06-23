@@ -1,0 +1,19 @@
+body{
+	font-family: sans-serif;
+	background-color: rgb(46, 126, 69);
+	margin-left: 40px;
+	margin-top: 30px;
+	margin-right: 40px;
+	margin-bottom: 30px;
+    text-align: center;
+}
+footer{
+	background-color: rgb(240, 0, 0);
+	padding: 5px;
+	text-align: center;
+}
+h1{
+	background-color: rgb(240, 0, 0);
+	padding: 5px;
+	padding: 5px;
+}

@@ -1,0 +1,52 @@
+body {
+	font-family: Arial, Times New Roman, Sans-Serif;
+	background-color: #FFEBCC;
+}
+
+ul {
+	border-style: double;
+	border-color: green;	
+	display: flex;
+	list-style-position: inside;
+	text-align: center;
+	font-size: 17px;
+	margin-left: 415px;
+	margin-right: 410px;
+}
+
+h1 {
+	text-align: center;
+}
+
+.p {
+	margin-left: 100px;
+	margin-right: 100px;
+	font-size: 20px;
+	text-align: center;
+}
+
+.container {
+	display: flex;
+	align-items: center;
+}
+
+.texto {
+	margin-left: 55px;
+}
+
+footer {
+	background-color: white;
+	font-size: 20px;
+	border-style: double;
+	border-color: green;
+	text-align: center;
+	padding: 20px;
+}
+
+iframe {
+	margin-left: 450px;
+}
+
+#infografico{
+	margin-left: 520px;
+}
